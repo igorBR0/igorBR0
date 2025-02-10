@@ -6,6 +6,11 @@
 ###
 
 <h2 align="left">Hello, my name IGOR / Olá, meu nome é IGOR</h2>
+<h6 align="left">💻 Sou brasileiro, desenvolvedor focado em industria</h6>
+<h6 align="left">👷‍♂️ Trabalhando com automatizaçao de processos, integração de Clps com sistemas de terceiros programando gateways para interface, </h6>
+<h6 align="left">👷‍♂️ Inspeção por imagens com OPENCV</h6>
+<h6 align="left">🎨 Nas horas vagas trabalho com sistemas de vendas automaticas.</h6>
+
 
 ###
 
