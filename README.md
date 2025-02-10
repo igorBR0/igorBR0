@@ -6,13 +6,12 @@
 
 
 <h2 align="left">Hello, my name IGOR / Olá, meu nome é IGOR</h2>
-
 <h6 align="left">💻 I'm Brazilian, a developer focused on industry.</h6>
 <h6 align="left">👷‍♂️ Working with process automation, integration of PLCs with third-party systems, programming gateways for interface </h6>
 <h6 align="left">👷‍♂️ Image inspection with OPENCV</h6>
 <h6 align="left">🎨 In my spare time I work with automatic sales systems</h6>
 
-###
+___
 
 <h6 align="left">💻 Sou brasileiro, desenvolvedor focado em industria</h6>
 <h6 align="left">👷‍♂️ Trabalhando com automatizaçao de processos, integração de Clps com sistemas de terceiros programando gateways para interface </h6>
