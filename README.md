@@ -3,16 +3,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorBR0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <h2 align="left">Hello, my name IGOR / Olá, meu nome é IGOR</h2>
-<h6 align="left">💻 Sou brasileiro, desenvolvedor focado em industria</h6>
-<h6 align="left">👷‍♂️ Trabalhando com automatizaçao de processos, integração de Clps com sistemas de terceiros programando gateways para interface, </h6>
-<h6 align="left">👷‍♂️ Inspeção por imagens com OPENCV</h6>
-<h6 align="left">🎨 Nas horas vagas trabalho com sistemas de vendas automaticas.</h6>
 
+<h6 align="left">💻 I'm Brazilian, a developer focused on industry.</h6>
+<h6 align="left">👷‍♂️ Working with process automation, integration of PLCs with third-party systems, programming gateways for interface </h6>
+<h6 align="left">👷‍♂️ Image inspection with OPENCV</h6>
+<h6 align="left">🎨 In my spare time I work with automatic sales systems</h6>
 
 ###
+
+<h6 align="left">💻 Sou brasileiro, desenvolvedor focado em industria</h6>
+<h6 align="left">👷‍♂️ Trabalhando com automatizaçao de processos, integração de Clps com sistemas de terceiros programando gateways para interface </h6>
+<h6 align="left">👷‍♂️ Inspeção por imagens com OPENCV</h6>
+<h6 align="left">🎨 Nas horas vagas trabalho com sistemas de vendas automaticas</h6>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
